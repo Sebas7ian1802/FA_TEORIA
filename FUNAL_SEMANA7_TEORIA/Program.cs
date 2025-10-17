@@ -20,80 +20,80 @@ namespace FUNAL_SEMANA7_TEORIA
 
             Console.WriteLine("Ejer1: Caso con for");
             for (int i = 1; i <= 10; i++)
-            Console.Write(i + "  ");
+                Console.Write(i + "  ");
 
             Console.ReadKey();
         }
         static void ejer2()
         {
             // for descendente
-             
+
             Console.WriteLine("Ejer2: Caso con for descendente");
             for (int i = 10; i >= 1; i--)
-            Console.Write(i + "  ");
+                Console.Write(i + "  ");
 
             Console.ReadKey();
         }
         static void ejer3()
         {
             //while (j<=10)
-            
+
             Console.WriteLine("Ejer3: Caso con while");
             int j = 1;
             while (j <= 10)
             {
-               while (j <= 10)
-               {
-                  Console.Write(j + "  ");
-                  j++;
-               }
+                while (j <= 10)
+                {
+                    Console.Write(j + "  ");
+                    j++;
+                }
             }
 
             Console.ReadKey();
-            
+
         }
         static void ejer4()
         {
-             // while descendente
+            // while descendente
 
-             Console.WriteLine("Ejer4: Caso con while descendente");
-             int j = 10;
-             while (j >= 1)
-             {
-              Console.Write(j + "  ");
-              j--;
-             }
+            Console.WriteLine("Ejer4: Caso con while descendente");
+            int j = 10;
+            while (j >= 1)
+            {
+                Console.Write(j + "  ");
+                j--;
+            }
 
             Console.ReadKey();
         }
         static void ejer5()
         {
-             // do while
+            // do while
 
-             Console.WriteLine("Ejer5: Caso con do while");
-             int k = 1;
-             do
-             {
-              Console.Write(k + "  ");
-              k++;
-             } while (k <= 10);
+            Console.WriteLine("Ejer5: Caso con do while");
+            int k = 1;
+            do
+            {
+                Console.Write(k + "  ");
+                k++;
+            } while (k <= 10);
 
-             Console.ReadKey();
+            Console.ReadKey();
         }
         static void ejer6()
         {
-             // do while descendente
+            // do while descendente
 
-             Console.WriteLine("Ejer6: Caso con do while descendente");
-             int k = 10;
-             do
-             {
-               Console.Write(k + "  ");
-               k--;
-             } while (k >= 1);
+            Console.WriteLine("Ejer6: Caso con do while descendente");
+            int k = 10;
+            do
+            {
+                Console.Write(k + "  ");
+                k--;
+            } while (k >= 1);
 
-             Console.ReadKey();
-            
+            Console.ReadKey();
+
         }
         static void ejer7()
         {
@@ -112,7 +112,7 @@ namespace FUNAL_SEMANA7_TEORIA
             Console.ReadKey();
         }
         static void ejer8()
-        { 
+        {
             Console.Write("Cantidad de estudiantes: ");
             int n = int.Parse(Console.ReadLine());
 
@@ -135,5 +135,6 @@ namespace FUNAL_SEMANA7_TEORIA
             Console.WriteLine($"Hay {mayores} estudiantes mayores de edad y {menores} menores de edad.");
             Console.ReadKey();
         }
+
     }
 }
