@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B19202C-336C-4303-AB77-9E608986FBC6}|FUNAL_SEMANA7_TEORIA\\FUNAL_SEMANA7_TEORIA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta (2)\\fa_teoria\\funal_semana7_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\funal_semana9_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|solutionrelative:funal_semana9_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta (2)\\fa_teoria\\funal_semana9_teoria\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0E9386-91EA-4FF9-A5D6-60EB9F4E192F}|FUNAL_SEMANA9_TEORIA\\FUNAL_SEMANA9_TEORIA.csproj|solutionrelative:funal_semana9_teoria\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1B2FBC-B501-4F0B-B17F-484A779799CD}|BIBLIOTECA_SEMANA9_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta (2)\\fa_teoria\\biblioteca_semana9_teoria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1B2FBC-B501-4F0B-B17F-484A779799CD}|BIBLIOTECA_SEMANA9_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA.csproj|solutionrelative:biblioteca_semana9_teoria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19202C-336C-4303-AB77-9E608986FBC6}|FUNAL_SEMANA7_TEORIA\\FUNAL_SEMANA7_TEORIA.csproj|C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\funal_semana7_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B19202C-336C-4303-AB77-9E608986FBC6}|FUNAL_SEMANA7_TEORIA\\FUNAL_SEMANA7_TEORIA.csproj|solutionrelative:funal_semana7_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752E921B-A433-4BB7-B6F3-3EC4B9EA9496}|FUNAL_SEMANA8_TEORIA\\FUNAL_SEMANA8_TEORIA.csproj|c:\\users\\usuario\\desktop\\nueva carpeta (2)\\fa_teoria\\funal_semana8_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752E921B-A433-4BB7-B6F3-3EC4B9EA9496}|FUNAL_SEMANA8_TEORIA\\FUNAL_SEMANA8_TEORIA.csproj|solutionrelative:funal_semana8_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "FUNAL_SEMANA9_TEORIA\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:55:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
+              "RelativeDocumentMoniker": "BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
+              "RelativeToolTip": "BIBLIOTECA_SEMANA9_TEORIA\\Class1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:40:52.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "RelativeDocumentMoniker": "FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "RelativeToolTip": "FUNAL_SEMANA9_TEORIA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:48:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "RelativeDocumentMoniker": "FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "RelativeToolTip": "FUNAL_SEMANA8_TEORIA\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:45:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs",
               "RelativeDocumentMoniker": "FUNAL_SEMANA7_TEORIA\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Nueva carpeta (2)\\FA_TEORIA\\FUNAL_SEMANA7_TEORIA\\Program.cs",
               "RelativeToolTip": "FUNAL_SEMANA7_TEORIA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwIEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T04:33:07.089Z",
               "EditorCaption": ""

@@ -8,13 +8,13 @@ namespace FUNAL_SEMANA7_TEORIA
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            ejer6();
+            Ejer6();
             Console.ReadKey(); //detenimiento de consola
         }
 
-        static void ejer1()
+        static void Ejer1()
         {
             //for
 
@@ -24,7 +24,7 @@ namespace FUNAL_SEMANA7_TEORIA
 
             Console.ReadKey();
         }
-        static void ejer2()
+        static void Ejer2()
         {
             // for descendente
 
@@ -34,7 +34,7 @@ namespace FUNAL_SEMANA7_TEORIA
 
             Console.ReadKey();
         }
-        static void ejer3()
+        static void Ejer3()
         {
             //while (j<=10)
 
@@ -52,7 +52,7 @@ namespace FUNAL_SEMANA7_TEORIA
             Console.ReadKey();
 
         }
-        static void ejer4()
+        static void Ejer4()
         {
             // while descendente
 
@@ -66,7 +66,7 @@ namespace FUNAL_SEMANA7_TEORIA
 
             Console.ReadKey();
         }
-        static void ejer5()
+        static void Ejer5()
         {
             // do while
 
@@ -80,7 +80,7 @@ namespace FUNAL_SEMANA7_TEORIA
 
             Console.ReadKey();
         }
-        static void ejer6()
+        static void Ejer6()
         {
             // do while descendente
 
@@ -95,7 +95,7 @@ namespace FUNAL_SEMANA7_TEORIA
             Console.ReadKey();
 
         }
-        static void ejer7()
+        static void Ejer7()
         {
             Console.Write("Cantidad de estudiantes: ");
             int n = int.Parse(Console.ReadLine());
@@ -111,7 +111,7 @@ namespace FUNAL_SEMANA7_TEORIA
             Console.WriteLine($"Promedio de edades: {promedio:F2}");
             Console.ReadKey();
         }
-        static void ejer8()
+        static void Ejer8()
         {
             Console.Write("Cantidad de estudiantes: ");
             int n = int.Parse(Console.ReadLine());
@@ -123,7 +123,7 @@ namespace FUNAL_SEMANA7_TEORIA
             {
                 Console.Write($"Edad del estudiante {i}: ");
                 int edad = int.Parse(Console.ReadLine());
-                suma = suma + edad;
+                suma += edad;
                 if (edad >= 18)
                     mayores++;
                 else
